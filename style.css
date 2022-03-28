@@ -3,5 +3,8 @@
     font-size:22px;
 }
 .name_of_objects,#result_object,#result_accuracy{
-    color: blue;
+    color: rgb(247, 247, 248);
+}
+body{
+    background-image: url("cir.jpg");
 }
